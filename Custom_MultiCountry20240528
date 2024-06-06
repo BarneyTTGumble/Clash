@@ -11,6 +11,7 @@
 ;多国家分组：支持港/坡/日/美/其他节点
 
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/BarneyTTGumble/Clash/main/direct.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/BarneyTTGumble/Clash/main/Proxy.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
