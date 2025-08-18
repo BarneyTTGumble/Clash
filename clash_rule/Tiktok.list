@@ -1,0 +1,15 @@
+# === TikTok / 抖音国际版 ===
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+
+# TikTok 静态资源 / 视频 CDN
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,bytefcdn-oversea.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn-us.net
+DOMAIN-SUFFIX,tiktokcdn-us.org
