@@ -5,7 +5,7 @@ DOMAIN-KEYWORD,duga.jp
 DOMAIN-SUFFIX,xasiat.com
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,cobalt.tools
-IP-CIDR,206.237.13.236,no-resolve
+IP-CIDR,206.237.13.236/32,no-resolve
 
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
