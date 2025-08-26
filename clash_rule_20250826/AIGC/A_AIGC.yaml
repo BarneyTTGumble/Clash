@@ -1,0 +1,18 @@
+# A_AIGC
+# behavior: classical
+# format: yaml
+payload:
+#
+  - DOMAIN-SUFFIX,cursor.so
+  - DOMAIN-SUFFIX,fuclaude.com
+  - DOMAIN-SUFFIX,genspark.ai
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,iask.ai
+  - DOMAIN-SUFFIX,monica.im
+  - DOMAIN-SUFFIX,mychandler.bet
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,you.com
+  - DOMAIN-SUFFIX,sora.com
+  - DOMAIN-SUFFIX,mete.ai
