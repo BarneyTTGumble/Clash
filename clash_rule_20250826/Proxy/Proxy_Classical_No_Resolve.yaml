@@ -9,6 +9,7 @@
 # IP-CIDR6: 4
 # TOTAL: 6627
 payload:
+  - DOMAIN,static.zohocdn.com.cn
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
   - DOMAIN,assets-priconne-redive-us.akamaized.net
