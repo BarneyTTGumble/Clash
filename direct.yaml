@@ -14,3 +14,15 @@ payload:
   - DOMAIN-KEYWORD,namecheap.com
   - DOMAIN-KEYWORD,snov.io
   - DOMAIN-KEYWORD,snovio.com
+  - DOMAIN-SUFFIX,ecmarkets.com
+  - DOMAIN-SUFFIX,ecmarkets.sc
+  - DOMAIN-SUFFIX,ecmarkets.co.uk
+  - DOMAIN-SUFFIX,ecmarkets.com.au
+  - DOMAIN-SUFFIX,ecmarkets.co.nz
+  - DOMAIN-SUFFIX,ecmarkets.asia
+  - DOMAIN-SUFFIX,ecmarkets.co
+  - DOMAIN-SUFFIX,ecmarkets.live
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.vision
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,binancefuture.com
