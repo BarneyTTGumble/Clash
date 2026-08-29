@@ -26,3 +26,14 @@ payload:
   - DOMAIN-SUFFIX,binance.vision
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,binancefuture.com
+
+# ==============================
+# 腾讯 IMA
+# ==============================
+
+  - DOMAIN-SUFFIX,ima.qq.com
+  - DOMAIN-SUFFIX,static.ima.qq.com
+  - DOMAIN-SUFFIX,ul.ima.qq.com
+  - DOMAIN-SUFFIX,res.wx.qq.com
+  - DOMAIN-SUFFIX,img.ima.qq.com
+  - DOMAIN-SUFFIX,ima-app.image.myqcloud.com
