@@ -27,6 +27,12 @@ payload:
   - DOMAIN-SUFFIX,binancefuture.com
 
 # ==============================
+# Command Code
+# ==============================
+
+  - DOMAIN-SUFFIX,commandcode.ai
+
+# ==============================
 # 腾讯 IMA
 # ==============================
 
