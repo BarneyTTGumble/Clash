@@ -42,3 +42,11 @@ payload:
   - DOMAIN-SUFFIX,res.wx.qq.com
   - DOMAIN-SUFFIX,img.ima.qq.com
   - DOMAIN-SUFFIX,ima-app.image.myqcloud.com
+
+# ==============================
+# BossMail / ChinaEmail 企业邮箱
+# ==============================
+
+  - DOMAIN-SUFFIX,chinaemail.cn
+  - DOMAIN-SUFFIX,laobanmail.net
+  - DOMAIN-SUFFIX,laobanmail.com
