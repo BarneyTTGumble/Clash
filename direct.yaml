@@ -50,3 +50,9 @@ payload:
   - DOMAIN-SUFFIX,chinaemail.cn
   - DOMAIN-SUFFIX,laobanmail.net
   - DOMAIN-SUFFIX,laobanmail.com
+
+# ==============================
+# Futurbath 官网
+# ==============================
+
+  - DOMAIN-SUFFIX,futurbath.com
