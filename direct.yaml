@@ -56,3 +56,10 @@ payload:
 # ==============================
 
   - DOMAIN-SUFFIX,futurbath.com
+
+# ==============================
+# OpenCode
+# ==============================
+
+  - DOMAIN-SUFFIX,opencode.ai
+  - DOMAIN-SUFFIX,opencode.dev
